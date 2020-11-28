@@ -1,0 +1,2 @@
+This is local file
+It is present in local repository
